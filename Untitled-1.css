@@ -1,0 +1,17 @@
+.header{
+    color: rgb(0, 0, 0);
+    font-size: 150px;
+    background-color: rgb(60, 255, 0);
+}
+h2{
+    color: rgb(60, 255, 0);
+    background-color: black;
+    font-size: 70px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+h4{
+    color: rgb(60, 255, 0);
+    background-color: black;
+    margin-top: -3;
+}
